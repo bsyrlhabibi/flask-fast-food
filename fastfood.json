@@ -1,0 +1,82 @@
+[
+    {
+        "Makanan": "Baked Potato",
+        "Kalori": 194,
+        "Lemak": "3.92g",
+        "Karbohidrat": "36.54g",
+        "Protein": "4.32g",
+        "Tautan": "https://www.fatsecret.com/calories-nutrition/generic/white-potato-baked-peel-eaten"
+    },
+    {
+        "Makanan": "Burger",
+        "Kalori": 272,
+        "Lemak": "9.77g",
+        "Karbohidrat": "34.25g",
+        "Protein": "12.32g",
+        "Tautan": "https://www.fatsecret.com/calories-nutrition/usda/hamburger-(single-patty-with-condiments)"
+    },
+    {
+        "Makanan": "Crispy Chicken",
+        "Kalori": 330,
+        "Lemak": "23g",
+        "Karbohidrat": "9g",
+        "Protein": "22g",
+        "Tautan": "https://www.fatsecret.com/calories-nutrition/kfc/extra-crispy-chicken-thigh"
+    },
+    {
+        "Makanan": "Donut",
+        "Kalori": 240,
+        "Lemak": "11g",
+        "Karbohidrat": "33g",
+        "Protein": "4g",
+        "Tautan": "https://www.fatsecret.com/calories-nutrition/dunkin-donuts/glazed-donut"
+    },
+    {
+        "Makanan": "Fries",
+        "Kalori": 156,
+        "Lemak": "8.01g",
+        "Karbohidrat": "20.33g",
+        "Protein": "1.98g",
+        "Tautan": "https://www.fatsecret.com/calories-nutrition/generic/white-potato-french-fries"
+    },
+    {
+        "Makanan": "Hot Dog",
+        "Kalori": 170,
+        "Lemak": "15g",
+        "Karbohidrat": "4g",
+        "Protein": "6g",
+        "Tautan": "https://www.fatsecret.com/calories-nutrition/ball-park/hotdog"
+    },
+    {
+        "Makanan": "Pizza",
+        "Kalori": 237,
+        "Lemak": "10.1g",
+        "Karbohidrat": "26.08g",
+        "Protein": "10.6g",
+        "Tautan": "https://www.fatsecret.com/calories-nutrition/generic/pizza-cheese"
+    },
+    {
+        "Makanan": "Sandwich",
+        "Kalori": 252,
+        "Lemak": "12.08g",
+        "Karbohidrat": "27.29g",
+        "Protein": "8.09g",
+        "Tautan": "https://www.fatsecret.com/calories-nutrition/generic/sandwich"
+    },
+    {
+        "Makanan": "Taco",
+        "Kalori": 568,
+        "Lemak": "31.61g",
+        "Karbohidrat": "41.11g",
+        "Protein": "31.77g",
+        "Tautan": "https://www.fatsecret.com/calories-nutrition/usda/taco"
+    },
+    {
+        "Makanan": "Taquito",
+        "Kalori": 180,
+        "Lemak": "7g",
+        "Karbohidrat": "20g",
+        "Protein": "7g",
+        "Tautan": "https://www.fatsecret.com/calories-nutrition/double-b/breakfast-taquito"
+    }
+]
