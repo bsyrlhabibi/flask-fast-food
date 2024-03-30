@@ -84,20 +84,20 @@ def predict():
     file = request.files['file']
     try:
         predicted_class, confidence, nutrition = predict_image(file)
+        # Jika prediksi sukses, tambahkan pesan success
+        message = "Success"
     except Exception as e:
         return jsonify({'error': str(e)})
 
     # Atur urutan respons sesuai keinginan di dalam fungsi predict
     response = {
+        'message': message,
         'prediksi': predicted_class,
         'tingkat_kepercayaan': float(confidence),
+        'nutrisi': nutrition
     }
 
-    nutrition_response = {
-            'nutrisi': nutrition
-        }
-
-    return jsonify(response, nutrition_response)
+    return jsonify(response)
 
 if __name__ == '__main__':
     app.run(debug=True)
